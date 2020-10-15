@@ -1,5 +1,5 @@
-# Welcome to my blog
+# General Equality would be nice right?
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about dot dot dot
 
-Testing making changes to the index file. Halo thar!!
+The things that I come up with as I come up with it.
