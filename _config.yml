@@ -4,7 +4,7 @@ email: Coming soon, is this a link?
 description: > # this means to ignore newlines until "baseurl:"
   Why can't we be friends?
 
-social links
+# social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
